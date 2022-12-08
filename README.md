@@ -2,6 +2,8 @@
 
 Hello, this is a sample tutorial project for my Jsoneng JSON based database.
 
+To use the package in your project, use `npm install jsoneng -U`
+
 Please refer to: https://github.com/youhengzhou/jsoneng-js for the Github project repo
 
 Please refer to: https://www.npmjs.com/package/jsoneng for the NPM package
