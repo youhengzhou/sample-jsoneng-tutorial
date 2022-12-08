@@ -2,6 +2,10 @@
 
 Hello, this is a sample tutorial project for my Jsoneng JSON based database.
 
+Please refer to: https://github.com/youhengzhou/jsoneng-js for the NPM package
+
+Please refer to: https://www.npmjs.com/package/jsoneng for the NPM package
+
 In this tutorial project, the jsoneng database interfaces with express and receives information from a user's POST request and creates a new database entry based on the user's data.
 
 ![image](https://user-images.githubusercontent.com/60205850/206361952-f1cdd130-739e-4719-a44f-64fa06049c2e.png)
