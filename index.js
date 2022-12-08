@@ -1,15 +1,14 @@
-const express = require("express");
-const app = express();
 const path = require("path");
-const bodyParser = require("body-parser");
-const jsoneng = require("jsoneng");
-
-const jsonParser = bodyParser.json();
-const urlencodedParser = bodyParser.urlencoded({ extended: false });
 const dirname = path.join(process.cwd());
 
+const bodyParser = require("body-parser");
+const urlencodedParser = bodyParser.urlencoded({ extended: false });
+
+const express = require("express");
+const app = express();
 app.use(express.static(dirname));
 
+const jsoneng = require("jsoneng");
 let jdb = new jsoneng();
 jdb.create({}, "SampleDataBase");
 
