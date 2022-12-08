@@ -2,7 +2,7 @@
 
 Hello, this is a sample tutorial project for my Jsoneng JSON based database.
 
-Please refer to: https://github.com/youhengzhou/jsoneng-js for the NPM package
+Please refer to: https://github.com/youhengzhou/jsoneng-js for the Github project repo
 
 Please refer to: https://www.npmjs.com/package/jsoneng for the NPM package
 
